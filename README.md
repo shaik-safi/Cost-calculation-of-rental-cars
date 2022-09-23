@@ -1,4 +1,4 @@
-# Cost-calculation-of-rental-cars
+# Rental Car Cost Estimator
 
 ## Introduction
 
